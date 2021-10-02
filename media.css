@@ -1,0 +1,51 @@
+
+@media (max-width:425px) and (min-width:320px) {
+    .navbar-light .navbar-brand {
+        color: rgba(0,0,0,.9);
+        width: 50%;
+    }
+    .banner h1 {
+        font-size: 56px;
+        text-align: center;
+        font-weight: 900;
+        text-shadow: white 4px 5px 5px;
+    }
+    .price h1 {
+        font-weight: normal;
+        font-size: 15px;
+        margin: 0;
+        text-align: center;
+        font-weight: 600;
+        color: #fff;
+        text-shadow: red 0px 0px 0px;
+    }
+    .price {
+        padding: 8px;
+    }
+    .price h2 {
+        font-size: 15px;
+        text-align: center;
+        text-shadow: none;
+    }
+    .ban-price {
+        position: absolute;
+        background: #cd0505;
+        padding: -7px;
+        padding: 6px;
+        bottom: 0%;
+        left: 0%;
+        border-radius: 50%;
+        transform: translate(40px, 40px);
+    }
+    .banner h2 {
+    text-align: center;
+    }
+    .banner h5 {
+        font-size: 14px;
+        margin: auto;
+    }
+    .teste {
+        width: 50%;
+    }    
+    
+}
